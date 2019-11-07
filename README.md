@@ -1,3 +1,3 @@
 # Bondera
-Bonds Simulation software
+Bonds Simulation software.
 Code is up to date
